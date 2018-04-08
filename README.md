@@ -23,20 +23,26 @@ However, a toll bridge, with a two­way toll, between the two cities causes driv
 to be exclusive to each city. The Ultimate managers of city operations for the two cities have
 proposed an experiment to encourage driver partners to be available in both cities, by
 reimbursing all toll costs.
-1. What would you choose as the key measure of success of this experiment in
-encouraging driver partners to serve both cities, and why would you choose this metric?
-2. Describe a practical experiment you would design to compare the effectiveness of the
-proposed change in relation to the key measure of success. Please provide details on:
 
-<ol type="a">
+<ol type="a=1">
 
-	<li>how you will implement the experiment</li>
-	<li>what statistical test(s) you will conduct to verify the significance of the
-observation</li>
-	<li>how you would interpret the results and provide recommendations to the city
-operations team along with any caveats.</li>
+	<li>What would you choose as the key measure of success of this experiment in
+	encouraging driver partners to serve both cities, and why would you choose this metric? </li>
+	<li>Describe a practical experiment you would design to compare the effectiveness of the
+	proposed change in relation to the key measure of success. Please provide details on:</li>
+
+	<ol type="a">
+
+		<li>how you will implement the experiment</li>
+
+		<li>what statistical test(s) you will conduct to verify the significance of the
+		observation</li>
+
+		<li>how you would interpret the results and provide recommendations to the city
+		operations team along with any caveats.</li>
 		
-</ol>
+	</ol>
+</ol>	
 	
 
 </p>
