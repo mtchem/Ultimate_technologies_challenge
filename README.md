@@ -27,6 +27,7 @@ reimbursing all toll costs.
 encouraging driver partners to serve both cities, and why would you choose this metric?
 2. Describe a practical experiment you would design to compare the effectiveness of the
 proposed change in relation to the key measure of success. Please provide details on:
+
 <ol type="a">
 
 	<li>how you will implement the experiment</li>
@@ -35,7 +36,7 @@ observation</li>
 	<li>how you would interpret the results and provide recommendations to the city
 operations team along with any caveats.</li>
 		
-</ol>>
+</ol>
 	
 
 </p>
@@ -48,9 +49,13 @@ January 2014. The data was pulled several months later; we consider a user reta
 were “active” (i.e. took a trip) in the preceding 30 days.
 We would like you to use this data set to help understand what factors are the best predictors
 for retention, and offer suggestions to operationalize those insights to help Ultimate.
-The data is in the attached file ultimate_data_challenge.json. See below for a detailed
+The data is in the attached file ultimate_data_challenge.json. 
+
+<p>
+See below for a detailed
 description of the dataset. Please include any code you wrote for the analysis and delete the
-dataset when you have finished with the challenge.
+dataset when you have finished with the challenge.</p>
+
 <ol type="a=1">
 <li>Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
 data for this analysis (a few sentences/plots describing your approach will suffice). What
