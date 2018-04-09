@@ -28,7 +28,7 @@
 
 
 
-	<ol type="a=1">
+	<ol>
 
 		<li>What would you choose as the key measure of success of this experiment in
 		encouraging driver partners to serve both cities, and why would you choose this metric? </li>
@@ -36,7 +36,7 @@
 		proposed change in relation to the key measure of success. Please provide details on:</li>
 	
 
-		<ol type="a">
+		<ol>
 
 			<li>how you will implement the experiment</li>
 
@@ -69,7 +69,7 @@
 
 <p>
 
-	<ol type="a=1">
+	<ol>
 		<li>Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
 		data for this analysis (a few sentences/plots describing your approach will suffice). What
 		fraction of the observed users were retained?</li>
