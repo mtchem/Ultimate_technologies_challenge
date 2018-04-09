@@ -22,9 +22,9 @@
 	However, a toll bridge, with a two­way toll, between the two cities causes driver partners to tend
 	to be exclusive to each city. The Ultimate managers of city operations for the two cities have
 	proposed an experiment to encourage driver partners to be available in both cities, by
-	reimbursing all toll costs.</p>
+	reimbursing all toll costs.
 
-<p>
+
 
 	<ol type="a=1">
 
