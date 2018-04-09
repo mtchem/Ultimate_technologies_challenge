@@ -11,14 +11,16 @@
 	geographic location. Aggregate these login counts based on 15­minute time intervals, and
 	visualize and describe the resulting time series of login counts in ways that best characterize the
 	underlying patterns of the demand. Please report/illustrate important features of the demand,
-	such as daily cycles. If there are data quality issues, please report them.</p>
+	such as daily cycles. If there are data quality issues, please report them.
+</p>
 
 <p>
 	<H4>Part 2: Experiment and metrics design</H4>
 	The neighboring cities of Gotham and Metropolis have complementary circadian rhythms: on
 	weekdays, Ultimate Gotham is most active at night, and Ultimate Metropolis is most active
 	during the day. On weekends, there is reasonable activity in both cities.
-
+</p>
+<p>
 	However, a toll bridge, with a two­way toll, between the two cities causes driver partners to tend
 	to be exclusive to each city. The Ultimate managers of city operations for the two cities have
 	proposed an experiment to encourage driver partners to be available in both cities, by
