@@ -28,26 +28,26 @@
 
 
 
-	<ul>
+<ul>
 
-		<li>What would you choose as the key measure of success of this experiment in
-		encouraging driver partners to serve both cities, and why would you choose this metric? </li>
-		<li>Describe a practical experiment you would design to compare the effectiveness of the
-		proposed change in relation to the key measure of success. Please provide details on:</li>
+<li>What would you choose as the key measure of success of this experiment in
+encouraging driver partners to serve both cities, and why would you choose this metric? </li>
+<li>Describe a practical experiment you would design to compare the effectiveness of the
+proposed change in relation to the key measure of success. Please provide details on:</li>
+
+
+<ul>
+
+<li>how you will implement the experiment</li>
+
+<li>what statistical test(s) you will conduct to verify the significance of the
+observation</li>
+
+<li>how you would interpret the results and provide recommendations to the city
+operations team along with any caveats.</li>
 	
-
-		<ul>
-
-			<li>how you will implement the experiment</li>
-
-			<li>what statistical test(s) you will conduct to verify the significance of the
-			observation</li>
-
-			<li>how you would interpret the results and provide recommendations to the city
-			operations team along with any caveats.</li>
-		
-		</ul>
-	</ul>
+</ul>
+</ul>
 </p>
 
 <p>
@@ -69,17 +69,17 @@
 
 <p>
 
-	<ul>
-		<li>Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
-		data for this analysis (a few sentences/plots describing your approach will suffice). What
-		fraction of the observed users were retained?</li>
-		<li> Build a predictive model to help Ultimate determine whether or not a user will be active
-		in their 6th month on the system. Discuss why you chose your approach, what
-		alternatives you considered, and any concerns you have. How valid is your model?
-		Include any key indicators of model performance.</li>
-		<li> Briefly discuss how Ultimate might leverage the insights gained from the model to
-		improve its long­term rider retention (again, a few sentences will suffice).</li>
-	</ul>
+<ul>
+<li>Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
+data for this analysis (a few sentences/plots describing your approach will suffice). What
+fraction of the observed users were retained?</li>
+<li> Build a predictive model to help Ultimate determine whether or not a user will be active
+in their 6th month on the system. Discuss why you chose your approach, what
+alternatives you considered, and any concerns you have. How valid is your model?
+Include any key indicators of model performance.</li>
+<li> Briefly discuss how Ultimate might leverage the insights gained from the model to
+improve its long­term rider retention (again, a few sentences will suffice).</li>
+</ul>
 </p>
 
 <p>
