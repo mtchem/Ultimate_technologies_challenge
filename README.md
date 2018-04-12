@@ -28,7 +28,7 @@
 
 
 
-	<ol>
+	<ul>
 
 		<li>What would you choose as the key measure of success of this experiment in
 		encouraging driver partners to serve both cities, and why would you choose this metric? </li>
@@ -36,7 +36,7 @@
 		proposed change in relation to the key measure of success. Please provide details on:</li>
 	
 
-		<ol>
+		<ul>
 
 			<li>how you will implement the experiment</li>
 
@@ -46,8 +46,8 @@
 			<li>how you would interpret the results and provide recommendations to the city
 			operations team along with any caveats.</li>
 		
-		</ol>
-	</ol>
+		</ul>
+	</ul>
 </p>
 
 <p>
@@ -69,7 +69,7 @@
 
 <p>
 
-	<ol>
+	<ul>
 		<li>Perform any cleaning, exploratory analysis, and/or visualizations to use the provided
 		data for this analysis (a few sentences/plots describing your approach will suffice). What
 		fraction of the observed users were retained?</li>
@@ -79,7 +79,7 @@
 		Include any key indicators of model performance.</li>
 		<li> Briefly discuss how Ultimate might leverage the insights gained from the model to
 		improve its long­term rider retention (again, a few sentences will suffice).</li>
-	</ol>
+	</ul>
 </p>
 
 <p>
